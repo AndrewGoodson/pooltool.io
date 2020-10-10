@@ -3,13 +3,13 @@
 ## CHANGE THESE TO SUITE YOUR POOL
 
 # your pool id as on the explorer
-PT_MY_POOL_ID="xxxx"
+PT_MY_POOL_ID="7e82a949dc775005761ec3446a9358261416cbdd8de2c6530cb3270b"
 # get this from your account profile page on pooltool website
-PT_MY_API_KEY="xxxx-xx-xx-xx-xxxx"
+PT_MY_API_KEY="ec221ebb-3544-453c-9d32-a2387688dd56"
 # Your node ID (optional, this is reserved for future use and is not captured yet)
 PT_MY_NODE_ID="xxxx-xxx-xxx-xxx-xxxx"
 # THE NAME OF THE SCRIPT YOU USE TO MANAGE YOUR POOL
-PLATFORM="shelley-sendmytip.sh"
+PLATFORM="cntools.sh"
 # The location of your log file.
 # EXAMPLE CONFIGURATION ENTRIES IN YOUR config.json FILE FOR YOUR NODE:
 # "defaultScribes": [
